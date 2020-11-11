@@ -30,4 +30,6 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+Here I am making a second change
+
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
